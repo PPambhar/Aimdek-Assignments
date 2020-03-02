@@ -1,5 +1,7 @@
 package com.student.bean;
 
+import com.mysql.cj.x.protobuf.MysqlxDatatypes.Scalar.String;
+
 public class Student {
 	
 	private int id;
